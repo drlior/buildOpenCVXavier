@@ -17,7 +17,8 @@ INSTALL_DIR=/usr/local
 # Value should be YES or NO
 DOWNLOAD_OPENCV_EXTRAS=NO
 # Source code directory
-OPENCV_SOURCE_DIR=$HOME
+# OPENCV_SOURCE_DIR=$HOME
+OPENCV_SOURCE_DIR=/xavier_ssd
 WHEREAMI=$PWD
 
 CLEANUP=true
